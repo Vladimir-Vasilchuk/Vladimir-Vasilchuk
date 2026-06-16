@@ -15,7 +15,7 @@
 
 ## Материал проекта
 
-*  [Программа и методика испытаний](https://docs.google.com/document/d/128MXuJnTffCac6_ULXj-3aY-2tg_vpac/edit?usp=sharing&ouid=112445198466945211055&rtpof=true&sd=true)
+*  [Программа и методика испытаний](https://docs.google.com/document/d/1icY60TSV3J4O7Rwfh72DcNt_WMnUYciXT0ty5uENLjk/edit?usp=sharing)
 *  [Руководство пользователя](https://docs.google.com/document/d/1kzlotAwQjs-hHWDApWOWxeIzZrdkmMF2/edit?usp=share_link&ouid=112445198466945211055&rtpof=true&sd=true)
 
 ## Используемые инструменты
