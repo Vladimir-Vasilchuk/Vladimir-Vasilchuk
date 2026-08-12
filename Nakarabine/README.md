@@ -20,7 +20,7 @@
 
 ## Материал проекта
 
-*  [Спецификация требований к ПО Накарабине (версия 2.0)](https://docs.google.com/document/d/1e9JF-A6Xd5p-oLn6H4alE1wwF2V8fPc0a8qTXhr9RFc/edit?usp=sharing)
+*  [Спецификация требований к ПО Накарабине (версия 2.0)](https://docs.google.com/document/d/1bQX2UQJoVivSJTJNCfolTWnJCsqcQyRC/edit?usp=sharing&ouid=112445198466945211055&rtpof=true&sd=true)
 
 ## Используемые инструменты
 
